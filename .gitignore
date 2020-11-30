@@ -4,6 +4,8 @@
 .dart_tool/
 .packages
 build/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
