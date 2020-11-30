@@ -3,6 +3,7 @@ description: String processing library
 version: 0.1.0
 author: François Grèzes <grezesfrancois@gmail.com>
 homepage: https://github.com/SSebigo/flutter_stringprocess
+issue_tracker: https://github.com/SSebigo/flutter_stringprocess/issues
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
