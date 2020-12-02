@@ -1,6 +1,6 @@
 name: flutter_stringprocess
-description: String processing library
-version: 0.1.0
+description: The flutter_stringprocess package defines a set of methods to process strings.
+version: 0.1.1
 homepage: https://github.com/SSebigo/flutter_stringprocess
 issue_tracker: https://github.com/SSebigo/flutter_stringprocess/issues
 
