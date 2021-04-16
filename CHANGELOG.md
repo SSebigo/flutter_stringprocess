@@ -8,3 +8,7 @@
 ## 0.1.1 - 02/12/2020
 
 * Update description and example to comply with ```pub.dev``` requirements.
+
+## 0.1.2 - 16/04/2021
+
+* Update ```very_good_analysis``` dependency.

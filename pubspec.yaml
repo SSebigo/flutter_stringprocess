@@ -1,6 +1,6 @@
 name: flutter_stringprocess
 description: The flutter_stringprocess package defines a set of methods to process strings.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/SSebigo/flutter_stringprocess
 issue_tracker: https://github.com/SSebigo/flutter_stringprocess/issues
 
@@ -18,13 +18,12 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.15.7
-  very_good_analysis: ^1.0.4
+  very_good_analysis: ^2.0.3
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
 flutter: null
-
 # To add assets to your package, add an assets section, like this:
 # assets:
 #   - images/a_dot_burr.jpeg
